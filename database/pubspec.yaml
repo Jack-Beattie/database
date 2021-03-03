@@ -16,7 +16,8 @@ dependencies:
   fixnum: ^0.10.0
   meta: ^1.1.0
   protobuf: '>=0.13.0 <2.0.0'
-  universal_html: ^1.2.4
+  universal_html: 
+    git: https://github.com/Jack-Beattie/universal_html.git
   universal_io: '>=0.8.6 <2.0.0'
 
 dev_dependencies:
