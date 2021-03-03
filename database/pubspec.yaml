@@ -13,7 +13,7 @@ dependencies:
   built_value: ^8.0.0
   charcode: ^1.1.0
   collection: ^1.14.0
-  fixnum: ^0.10.0
+  fixnum: ^1.0.0
   meta: ^1.1.0
   protobuf: '>=0.13.0 <2.0.0'
   universal_html: 
