@@ -6,10 +6,10 @@ description:
 homepage: https://github.com/dint-dev/database
 
 environment:
-  sdk: '>=2.6.0 <3.0.0'
+  sdk: '>=2.7.0 <3.0.0'
 
 dependencies:
-  built_collection: ^4.0.0
+  built_collection: ^5.0.0
   built_value: '>=5.0.0 <8.0.0'
   charcode: ^1.1.0
   collection: ^1.14.0
