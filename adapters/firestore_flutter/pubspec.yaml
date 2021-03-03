@@ -5,10 +5,10 @@ description:
 homepage: https://github.com/dint-dev/database
 
 environment:
-  sdk: '>=2.6.0 <3.0.0'
+  sdk: '>=2.7.0 <3.0.0'
 
 dependencies:
-  cloud_firestore: ^0.13.0+1
+  cloud_firestore: ^1.0.0
   flutter:
     sdk: flutter
   database: ^0.3.0
