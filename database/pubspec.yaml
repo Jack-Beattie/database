@@ -10,7 +10,7 @@ environment:
 
 dependencies:
   built_collection: ^5.0.0
-  built_value: '>=5.0.0 <8.0.0'
+  built_value: ^8.0.0
   charcode: ^1.1.0
   collection: ^1.14.0
   fixnum: ^0.10.0
