@@ -4,18 +4,17 @@ description: An adapter for connecting 'package:database' to Algolia. Works in a
 homepage: https://github.com/dint-dev/database
 
 environment:
-  sdk: '>=2.6.0 <3.0.0'
+  sdk: '>=2.7.0 <3.0.0'
 
 dependencies:
-  database: ^0.3.2
+  database:
+    git:
+      url: https://github.com/Jack-Beattie/database.git
+      path: database/
   meta: ^1.1.0
-  universal_io: '>=0.8.5 <2.0.0'
+  universal_io: ^2.0.0-nullsafety.2
 
 dev_dependencies:
   pedantic: ^1.8.0
   test: ^1.8.0
   test_io: ^0.1.2
-
-dependency_overrides:
-  database:
-    path: '../../database'
